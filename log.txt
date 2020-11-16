@@ -1,0 +1,3 @@
+public static void main(){
+suma = suma + 5 * 8 ;
+}
